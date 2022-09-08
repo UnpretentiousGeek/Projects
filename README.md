@@ -1,2 +1,2 @@
 # Projects
-### Repo for storing my projects that i may add to my portfolio.
+### Repo for storing my simple projects that I do to understand things better.
